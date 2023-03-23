@@ -4,7 +4,7 @@ public class ContaPoupanca extends contabancaria {
 
 	private int aniversario;
 
-	public ContaPoupanca(int numero, int agencia, int tipo, String titular, float saldo) {
+	public ContaPoupanca(int numero, int agencia, int tipo, String titular, float saldo, int i) {
 		super(numero, agencia, tipo, titular, saldo);
 
 	}
